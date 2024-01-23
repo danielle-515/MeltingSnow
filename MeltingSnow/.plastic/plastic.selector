@@ -1,0 +1,4 @@
+repository "MeltingSnow@local"
+  path "/"
+    br "/main"
+    co "/main"
